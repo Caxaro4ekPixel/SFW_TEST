@@ -28,7 +28,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Set up the database:
+### 4. Set up the environment variables:
 
 ```bash
 POSTGRES_DB=name # Replace with your database name
