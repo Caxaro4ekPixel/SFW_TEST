@@ -71,7 +71,7 @@ docker compose up -d
 He will execute this command himself, but why not check once again?)
 
 ```bash
-docker-compose exec web python manage.py test_contract --id 32812
+docker compose exec web python manage.py test_contract --id 32812
 ```
 
 ## Project Structure
